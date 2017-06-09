@@ -2,16 +2,16 @@
 disputable
 
 ## morose
-gloomy surly glum moody
+gloomy surly glum moody saturnine
 
 ## mundane
-banel hackneyed quotidian
+banel hackneyed quotidian trite
 
 ## munificent
 magnanimous
 
 ## negligible
-exiguity
+exiguity venial
 
 ## nettlesome
 exasperate
@@ -48,7 +48,7 @@ embroidered magnificent opulent
 expel snub expulse
 
 ## overweening
-arrogant haughty egotistic conceited
+arrogant haughty egotistic conceited supercilious
 
 ## panacea
 remedy
@@ -77,3 +77,25 @@ misgiving
 ## querulous
 carping
 
+## vitriolic
+acerbic
+
+## vindicate
+exonerate
+
+## vilify
+abuse denigrate belittle disparge
+
+## empathetic
+vicarious
+
+## venerate
+esteem
+
+## unassailable
+indisputable irrefutable unequivocal
+
+## undermine
+thwart
+
+## 
